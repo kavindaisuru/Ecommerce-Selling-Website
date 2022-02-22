@@ -1,0 +1,75 @@
+body{
+	background-color:grey;
+	background-size:cover;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100vh;/*viewport height*/
+}
+
+*{
+	font-family:Times New Romen;
+	box-sizing:border-box;
+}
+
+form{
+	box-shadow:1px 1px 25px ;
+	width:500px;
+	padding:30px;
+	background-color:whitesmoke;
+	border-radius:14px 75px;
+	border:6px;
+	color:black;
+	margin:50px auto 0;
+}
+h2{
+	text-align:center;
+	margin-bottom:40px;
+	color:black;
+}
+
+button{
+	border:0;
+	background-color:#FFDF00;
+	display:block;
+	text-align:center;
+	color:black;
+	
+}
+
+input{
+	border:6px;
+	background-position:10px 10px;
+	border-radius:10px 50px;
+	width:10px;
+	height:30px;
+	padding-left:40px;
+	margin:1px 3px
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
